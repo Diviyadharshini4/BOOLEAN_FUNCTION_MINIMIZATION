@@ -53,7 +53,9 @@ endmodule
 
 Developed by:A.DIVIYADHARSHINI
 RegisterNumber:*/24008491
+
 **BOOLEAN FUNCTION MINIMIZATION**
+
 F1  
 
 ![2 1](https://github.com/user-attachments/assets/45faa70e-f7b0-42c9-ae3b-ffc25a562d9b)
@@ -63,6 +65,7 @@ F2
 ![2 2](https://github.com/user-attachments/assets/f87b2c75-d7c6-462b-8eba-9d76746ddd67)
 
 **TRUTH TABLE**
+
 F1
 
 ![exp 2 1 t](https://github.com/user-attachments/assets/c30e655e-6515-40d3-8f10-6e32e76ad1f2)
@@ -73,6 +76,7 @@ F2
 
 
 **RTL**
+
 F1
 ![Experiment 2 f1](https://github.com/user-attachments/assets/65a348c3-7cda-483a-8153-6e44566b6d9b)
 F2
