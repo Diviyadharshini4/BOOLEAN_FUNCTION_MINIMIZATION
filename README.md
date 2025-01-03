@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+![2 1](https://github.com/user-attachments/assets/b3e996a4-8612-436a-98d7-a055c9a107a1)# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -54,6 +54,16 @@ endmodule
 
 Developed by:A.DIVIYADHARSHINI
 RegisterNumber:*/24008491
+**BOOLEAN FUNCTION MINIMIZATION**
+F1
+![2 1](https://github.com/user-attachments/assets/45faa70e-f7b0-42c9-ae3b-ffc25a562d9b)
+F2
+![2 2](https://github.com/user-attachments/assets/f87b2c75-d7c6-462b-8eba-9d76746ddd67)
+**TRUTH TABLE**
+F1
+![exp 2 1 t](https://github.com/user-attachments/assets/c30e655e-6515-40d3-8f10-6e32e76ad1f2)
+F2 
+![exp 2 2 t](https://github.com/user-attachments/assets/02e6dfd6-a970-455a-b5fa-c5dae7cc9470)
 
 
 **RTL**
@@ -61,6 +71,7 @@ F1
 ![Experiment 2 f1](https://github.com/user-attachments/assets/65a348c3-7cda-483a-8153-6e44566b6d9b)
 F2
 ![experiment 2 funct f2](https://github.com/user-attachments/assets/a1ac9a6a-9d20-4121-b1e9-9df0f8b4540d)
+
 
 
 **Output:**
